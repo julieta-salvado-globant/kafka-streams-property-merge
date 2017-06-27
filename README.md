@@ -1,0 +1,1 @@
+# kafka-streams-property-merge
